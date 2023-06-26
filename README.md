@@ -1,4 +1,4 @@
-# Datascience_Beginner_Projects
+# Datascience_Projects
 ## Compilation of data science projects for beginners while learning coding languages and program management.
 * Celestial Bodies: Built a relational database of celestial bodies using PostgreSQL in a Bash virtual machine.
 * Bustabit: Analyze gambling behaviours of players from Bustabit using over 40000 games of Bustabit by a bit and over 4000 different players with R program language and Jupyter notebook. 
